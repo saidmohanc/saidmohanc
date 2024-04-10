@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Artificial Intelligence and Machine Learning 
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me saidmohanc@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: He
 - ⚡ Fun fact: ...
 
 <!---
